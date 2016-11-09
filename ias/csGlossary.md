@@ -12,7 +12,8 @@
 |Algorithm   |  a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]? |
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
 |Graph       | the most general purpose description of representing data for an algorithm; an abstract data type; An example of one of [the simplest types of graphs is a singly linked list]!|
-| Vertex    | Each node of the graph is represented as a vertex  |
+|Vertex    | Each node of the graph is represented as a vertex  |
+|Degree    | Degree of a vertex is the number of edges that connect to it |
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
